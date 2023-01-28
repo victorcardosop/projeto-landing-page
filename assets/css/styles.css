@@ -272,3 +272,15 @@
         display: none;
     }
 }
+
+@media (max-width: 600px) {
+    .mailbox {
+        display: none;
+    }
+}
+
+@media (max-width: 400px) {
+    h2 {
+        font-size: 4rem;
+    }
+}

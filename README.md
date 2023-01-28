@@ -21,7 +21,7 @@ Imagem da parte superior da página (Imagem 1).
 <br>
 
 <p align="center">
-<img alt="Landing Page Responsiva" src="./.github/preview2.JPG" width="100%">
+<img alt="Landing Page Responsiva" src="./.github/preview2.JPG" width="30%">
 </p>
 <p align="center">
 Imagem da parte superior da página adaptada para mobile (Imagem 2).
